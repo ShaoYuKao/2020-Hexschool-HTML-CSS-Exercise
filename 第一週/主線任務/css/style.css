@@ -1,0 +1,155 @@
+.hw-container{
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hw-title-separate{
+    border: 2px solid #000000;
+}
+
+.hw-m-0p{
+    margin: 0;
+}
+.hw-mt-47p{
+    margin-top: 47px;
+}
+.hw-mt-48p{
+    margin-top: 48px;
+}
+.hw-mr-8p{
+    margin-bottom: 8px;
+}
+.hw-mb-4p{
+    margin-bottom: 4px;
+}
+.hw-mb-8p{
+    margin-bottom: 8px;
+}
+.hw-mb-15p{
+    margin-bottom: 15px;
+}
+.hw-mb-16p{
+    margin-bottom: 16px;
+}
+.hw-mb-24p{
+    margin-bottom: 24px;
+}
+.hw-mb-36p{
+    margin-bottom: 36px;
+}
+.hw-mb-48p{
+    margin-bottom: 48px;
+}
+.hw-mb-72p{
+    margin-bottom: 72px;
+}
+
+.hw-mr-16p{
+    margin-right: 16px;
+}
+.hw-mr-24p{
+    margin-right: 24px;
+}
+
+.hw-text-center{
+    text-align: center;
+}
+
+.hw-title > h1 {
+    font-size: 80px;
+    line-height: 94px;
+}
+
+.hw-pt-24p{
+    padding-top: 24px;
+}
+
+.hw-pb-20p{
+    padding-bottom: 20px;
+}
+
+.hw-pb-36p{
+    padding-bottom: 36px;
+}
+
+.hw-profile-zh, .hw-eduaction-zh, .hw-container-zh{
+    font-size: 32px;
+    line-height: 43px;
+}
+
+.hw-profile-en, .hw-eduaction-en, .hw-container-en{
+    font-size: 24px;
+    line-height: 28px;
+    color: #A00404;
+}
+
+.hw-profile-title-separate, .hw-eduaction-title-separate, 
+.hw-container-title-separate{
+    border: 1px solid #000000;
+}
+
+.hw-profile-content, .hw-eduaction-content{
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.hw-skill{
+    background-color:#415165
+}
+
+.hw-skill-zh{
+    font-size: 32px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+
+.hw-skill-en{
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.hw-skill-title-separate{
+    width: 996px;
+    border: 1px solid #FFFFFF;
+}
+
+.hw-skill-wrap{
+    display: table;
+    margin: 0 auto;
+    padding-left: 24px;
+    border-left: 1px solid #96A9C4;
+}
+
+.hw-skill-list, .hw-footer-list{
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.hw-container-wrap{
+    display: table;
+    padding-left: 24px;
+    border-left: 1px solid #96A9C4;
+}
+
+.hw-container-list{
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.hw-container-content{
+    width: 642px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.hw-container-footer{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.hw-footer{
+    background-color: #415165;
+}
