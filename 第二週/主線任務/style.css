@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+hr{
+    border: 1px solid #000000;
+}
+
+.header{
+    height: 958px;    
+    background-image: url('./image/photo-1552393700-42696fb89bfa.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    border: 1px solid #707070;
+}
+
+.before-dot-22::before{
+    content: "\A";
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #891818;
+    display: inline-block;
+}
+
+.before-mr-16p::before{
+    margin-right: 16px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.justify-content-start{
+    justify-content: start;
+}
+.justify-content-center{
+    justify-content: center;
+}
+
+.flex-column{
+    flex-direction: column
+}
+
+.text-white{
+    color: #FFFFFF;
+}
+.text-danger{
+    color: #891818;
+}
+.text-center{
+    text-align:center;
+}
+
+.list-style-none{
+    list-style: none;
+}
+.list-position-inside{
+    list-style-position:inside;
+}
+
+.m-0p{
+    margin: 0 0;
+}
+.mt-0p{
+    margin-top: 0px;
+}
+.mt-16p{
+    margin-top: 16px;
+}
+.mt-24p{
+    margin-top: 24px;
+}
+.mt-64p{
+    margin-top: 64px;
+}
+.mt-356p{
+    margin-top: 356px;
+}
+.mr-16p{
+    margin-right: 16px;
+}
+.mr-24p{
+    margin-right: 24px;
+}
+.mb-8p{
+    margin-bottom: 8px;
+}
+.mb-24p{
+    margin-bottom: 24px;
+}
+.mb-32p{
+    margin-bottom: 32px;
+}
+.mb-40p{
+    margin-bottom: 40px;
+}
+.mb-48p{
+    margin-bottom: 48px;
+}
+.mb-56p{
+    margin-bottom: 56px;
+}
+.mb-68p{
+    margin-bottom: 68px;
+}
+.mb-160p{
+    margin-bottom: 160px;
+}
+
+.pt-64p{
+    padding-top: 64px;
+}
+.pb-80p{
+    padding-bottom: 80px;
+}
+.pb-160p{
+    padding-bottom: 160px;
+}
+.pl-10p{
+    padding-left:10px;
+}
+
+
+.fs-20p{
+    font-size: 20px;
+}
+.fs-22p{
+    font-size: 22px;
+}
+.fs-24p{
+    font-size: 24px;
+}
+.fs-64p{
+    font-size: 64px;
+}
+.fs-80p{
+    font-size: 80px;
+}
+
+.lh-30p{
+    line-height: 30px;
+}
+.lh-36p{
+    line-height: 36px;
+}
+.lh-42p{
+    line-height: 42px;
+}
+.lh-75p{
+    line-height: 75px;
+}
+.lh-94p{
+    line-height: 94px;
+}
+
+.w-384p{
+    width: 384px;
+}
+
+.bg-dark{
+    background: #000000;
+}
