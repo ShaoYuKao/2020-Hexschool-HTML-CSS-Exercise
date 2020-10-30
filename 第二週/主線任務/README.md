@@ -1,4 +1,4 @@
-第一週主線任務
+第二週主線任務
 ====
 * <a href="https://rpg.hexschool.com/training/15/task?type=detail&id=163" target="_top">第二週 - 個人網頁</a>
 
